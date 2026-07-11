@@ -27,6 +27,11 @@ Flask-Script==2.0.5
 # Upstream url: https://pypi.python.org/pypi/blinker
 blinker==1.4
 
+# HTTP library with thread-safe connection pooling, file post, and more
+# License: MIT
+# Upstream url: https://github.com/urllib3/urllib3
+urllib3>=2.7.0
+
 # A wrapper around gunicorn to handle graceful restarts correctly
 # License: BSD
 rainbow-saddle>=0.4.0
